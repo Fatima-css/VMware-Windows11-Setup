@@ -59,3 +59,7 @@ Here are some examples of what to expect during the setup process:
 ### Next Steps
 1. Verify that all your images are in the `Screenshots` folder.
 2. Commit the changes on GitHub.
+
+
+## About This Project
+This is my first project, and I'm really excited to share it with you! I'm still learning, so I would really appreciate any guidance or feedback. If you'd like to collaborate or have suggestions, feel free to reach out or fork the repository. Thanks for your support!
